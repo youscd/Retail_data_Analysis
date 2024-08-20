@@ -8,7 +8,7 @@
 ## 분석 내용
 ### 2023년에서 2024년, 2년 간의 고객 구매 데이터
 
-![image](https://github.com/user-attachments/assets/62c3ba8f-bc4a-4b5f-8c54-c62e24122fa6)
+![image](https://github.com/user-attachments/assets/76ff805d-366d-4e4c-a57e-1c64cb34eb2d)
 
 #### 1. 년도별, 월별 매출 비교
 - 2024년에 비해 2023년도 매출액이 월등히 높음
