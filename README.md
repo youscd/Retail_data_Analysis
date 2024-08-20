@@ -5,7 +5,7 @@
 
 ---
 
-## 분석 내용
+## 분석 시각화
 ### 2023년에서 2024년, 2년 간의 고객 구매 데이터
 
 ![image](https://github.com/user-attachments/assets/76ff805d-366d-4e4c-a57e-1c64cb34eb2d)
