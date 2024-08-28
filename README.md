@@ -52,6 +52,8 @@
 ### 1) 년도별, 월별 매출 비교
 - 23.03 ~ 24.02 기간 동안 모든 등급의 월별 매출에 큰 변동이 없었음
 
+![image](https://github.com/user-attachments/assets/dddbc3ea-b8b5-4c7e-877a-d41b53fb4820)
+
 ### 2) 소비등급과 소득수준의 관계
 - 세 소비등급(Premium, Regular, New) 중에서 Regular 등급의 소비가 가장 많음
 - 소득수준이 medium 이고 Regular 등급인 고객이 가장 구매를 많이 함
@@ -59,6 +61,8 @@
 ### 3) 소비등급별 나이, 성별 매출 비교
 - Premium 등급은 40대의 구매가, Regular, New 등급은 20대의 구매가 가장 많음
 - 모든 등급의 남성 고객이 여성 고객보다 구매금액이 1.5배 높음
+
+![image](https://github.com/user-attachments/assets/3f721094-69d3-41f7-979d-04d8ac04b46e)
 
 ### 4) 소비등급별 평점과 피드백
 - 모든 등급이 평점의 경우 4.0점, 피드백의 경우 Excellent, Good 으로 준 경우가 많았음
